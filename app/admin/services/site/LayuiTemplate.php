@@ -65,6 +65,7 @@ class LayuiTemplate
             'kamept',
             'nanyangpt',
             'nicept',
+            'njtupt',
             'opencd',
             'oshen',
             'pandapt',
