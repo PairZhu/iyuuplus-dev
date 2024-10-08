@@ -17,7 +17,7 @@ ENV PS1="\[\e[32m\][\[\e[m\]\[\e[36m\]\u \[\e[m\]\[\e[37m\]@ \[\e[m\]\[\e[34m\]\
     S6_SYNC_DISKS=1 \
     COMPOSER_ALLOW_SUPERUSER=1 \
     APP_ENV=prod \
-    IYUU_REPO_URL="https://gitee.com/ledc/iyuuplus-dev.git"
+    IYUU_REPO_URL="https://github.com/PairZhu/iyuuplus-dev.git"
 
 # 安装PHP环境
 RUN set -ex && \

@@ -72,9 +72,7 @@ extension=zip
 
 # 版本发布页
 
-国内：https://gitee.com/ledc/iyuuplus-dev/tags
-
-国际：https://github.com/ledccn/iyuuplus-dev/tags
+国际：https://github.com/PairZhu/iyuuplus-dev/tags
 
 # nginx反向代理配置
 
