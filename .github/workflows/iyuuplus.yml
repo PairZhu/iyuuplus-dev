@@ -1,8 +1,8 @@
 name: 构建IYUUPlus镜像
 on:
-  workflow_dispatch:
-  schedule:
-    - cron: "0 4 * * 5"
+  push:
+    tags:
+      - 'v[0-9]+.[0-9]+.[0-9]+'
 
 jobs:
   build:
